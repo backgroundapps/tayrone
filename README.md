@@ -1,2 +1,2 @@
-# tayrone
+# Tayrone
 Go template app generator
